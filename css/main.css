@@ -1,0 +1,49 @@
+.header-img {
+    width: 100%;
+}
+
+.hsBoard {
+    width: 100%;
+}
+
+.mana {
+    text-align: center;
+}
+
+.hsCurve {
+    width: 100%;
+}
+
+.hsLadder {
+    width: 100%;
+}
+
+.classPortrait {
+    width: 33%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nextP {
+    float: right;
+}
+
+.homeP {
+    float: right;
+}
+
+a.backP.ui-btn.ui-icon-carat-l.ui-btn-icon-left.ui-btn-inline.ui-corner-all {
+    margin-left: 0.7%;
+    float: left;
+}
+
+.cardExample {
+    width: 33%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pic {
+    width: 100%;
+    text-align: center;
+}
